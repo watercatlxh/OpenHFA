@@ -1,8 +1,6 @@
 # OpenHFA
 倒卖的你妈死了
 
-# 你好SUSRDev
-呵呵网骗神滚出去
 
 # 准备工作
 - Myth
